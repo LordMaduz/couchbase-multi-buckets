@@ -1,0 +1,9 @@
+
+app:
+  couchbase:
+    connection-string: couchbase://localhost
+    user-name: Administrator
+    password: password
+    customer-bucket: customer-bucket
+    document-bucket: document-bucket
+    employee-bucket: employee-bucket
